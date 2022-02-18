@@ -16,16 +16,20 @@ Coldplay once sang 'Nobody said it was easy', and we agree. Every day presents n
 
 # Developer assessment
 
+## The Task
+
+Attached to this repository are 4 issue tickets which contain 'stories' related to creating a simple checkout flow (similar to one we actually use). Your task is to work through 2 or 3 of these tickets to create the basis for this checkout flow. The best tickets to start with are labelled with 'good first issue' We recommend tackling one of these first. Designs are also attached. If you have any questions, please reach out. Please note, completing all the tickets is not at all necessary and we do not want you to spend more than 3 hours on this task.
+
 ## Purpose
-The attached issues are designed to replicate tickets similar to those you would receive as part of the sprint process working at Skin + Me. The purpose of the overall task is to get an understanding of how you would approach a problem like this, demonstrate some of your core technical skills and to serve as a basis of the follow-up interview which will be conducted with the Engineering Manager and one of our Senior Developers.
+The attached issues are designed to replicate tickets similar to those you would receive as part of the sprint process working at Skin + Me. The purpose of the overall task is to get an understanding of how you would approach a problem like this, demonstrate some of your core technical skills and to serve as a basis of the follow-up interview which will be conducted with our Senior Developers.
+
+As mentioned above, do not feel pressured to create the entire flow or complete all tickets. Do as much as you can; Finishing one ticket to a high degree of polish is less preferable than tackling a couple and showing the range of abilities we are trying test. We mostly want to see how you think about a problem.
 
 ## Guidance
 
 What we’d like to see
 - React: Componentised front-end
-- React: End points that can send and receive information from the back-end
 - Python: You can stub a database if you like, but we still want to see consideration for the models you would use
-- Python:
 - General: README on how to start your project.
 - General: We would like you to create a private repository in your github account and commit your code to it. We would urge you to commit relatively frequently so we can get an idea of your style and approach.
 
